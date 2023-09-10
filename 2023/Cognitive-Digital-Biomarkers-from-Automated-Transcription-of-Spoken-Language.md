@@ -83,12 +83,12 @@ The use of voice-based digital biomarkers derived from automated processing meth
 
 ### Linguistic Variables Extraction (Manual Transcriptions)
 
-- NLP techniques to extract information from grammar of the sentences to evaluate the complexity of the responses via two trained ML models.
+- **NLP techniques** to extract information from grammar of the sentences to evaluate the complexity of the responses via two trained ML models.
 - Linguistic variables were generated based on the whole interview, as opposite to the paralinguistic variables, which were generated based on different sections of the interviews as well as the whole sessions.
 - Analyze the use of production rules:
     - used the Charniak-Johnson parser trained on the Wall Street Journal
     - computed the frequency of the top 50 most common production rules over all transcriptions
-    - Bristol norm variables were computed using natural language toolkit (NLTK) Python module to improve lemmatization.
+    - Bristol norm variables were computed using **natural language toolkit (NLTK)** Python module to improve lemmatization.
     - Several qualitative measures such as nonverbal breaks (laughs, crosstalk, etc.) were calculated.
     - Finally, additional measures of syntactic complexity using the L2 syntactic complexity analyzer were computed.
 
@@ -108,8 +108,8 @@ The use of voice-based digital biomarkers derived from automated processing meth
 ### Strength
 
 - Digital biomarkers can be measured in real time and are generally less expensive to compute:
-    - automated transcription costs ~$1 per 15-minute, which is **~$4** per hour
-    - manual transcription costs ~$2 per minute, which is **~$120** per hour
+    - automated transcription costs $1 per 15-minute, which is **$4** per hour
+    - manual transcription costs $2 per minute, which is **$120** per hour
 
 ### Limitations
 
