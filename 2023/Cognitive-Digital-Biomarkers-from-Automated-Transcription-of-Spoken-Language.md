@@ -108,7 +108,7 @@ The use of voice-based digital biomarkers derived from automated processing meth
 ### Strength
 
 - Digital biomarkers can be measured in real time and are generally less expensive to compute:
-    - automated transcription costs $1 per 15-minute, which is **$4** per hour
+    - automated transcription costs $1 per 15 minute, which is **$4** per hour
     - manual transcription costs $2 per minute, which is **$120** per hour
 
 ### Limitations
