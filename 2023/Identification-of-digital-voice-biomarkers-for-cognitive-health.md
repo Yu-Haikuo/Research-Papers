@@ -65,7 +65,9 @@ Multiple acoustic and linguistic features are identified that are associated wit
 
 ### Process Diagram
 
-<img src=":/599e9b30555b42e4852eabbe78de3239" alt="Xnip2023-08-28_17-01-23.png" width="322" height="500" class="jop-noMdConv">
+<p align="center">
+    <img height="500" width="322" src="https://github.com/Yu-Haikuo/Research-Papers/blob/main/2023/Resources/Xnip2023-08-28_17-01-23.png" alt="Xnip2023-08-28_17-01-23.png">
+</p>
 
 ## Results
 
