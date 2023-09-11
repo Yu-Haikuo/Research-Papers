@@ -93,7 +93,7 @@ Two ML approaches (Acoustic & NLP) were implemented because of the differences i
 - The existing cutoff score for MoCA (<=26) might be unreliable, and the number should be lower.
 - Only 15-item Boston Naming Test were used in this experiment instead of the 60-item one, so the sensitivity to cognitive impairment should be lower. 
 - Pictures used in the test may be dated or cultural dependent.
-- Privacy issues for audio recording and analysis. 
+- Privacy issues for audio recording and analysis.
 
 ## Future directions
 
